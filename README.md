@@ -1,6 +1,6 @@
 # Привет, меня зовут Даниил 👨‍💻<a href="https://t.me/dvblatter"><img src="images/icons/TG.png" alt="Telegram Icon" width="25" height="25"/></a>
 
-<p>Fullstack QA на Java! <img height="25" src="images/icons/java.svg" width="25"/></a> <br/>Мой опыт работы — 2 года.</p> 
+<p>Fullstack QA на Java! <img height="25" src="images/icons/java.svg" width="25"/></a> <br/>Мой опыт работы — 4 года.</p> 
 
 ><br/>Коммерческий опыт. Проекты для которых я разрабатывал автоматизацию тестирования:
 ><br/>

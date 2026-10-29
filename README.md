@@ -5,7 +5,8 @@
 ><br/>Коммерческий опыт. Проекты для которых я разрабатывал автоматизацию тестирования:
 ><br/>
 <br/>- **MVideo** <a href="https://www.mvideo.ru"><img height="25" src="images/icons/mvideo.png" width="25"/></a>
-
+<br/>- **A-Trust** <a href="https://a-trast.ru/"><img height="25" src="images/icons/a-trast.png" width="25"/></a>
+<br/>- **Планета Авто** <a href="https://planetavto.ru/"><img height="25" src="images/icons/p-avto.jpg" width="25"/></a>
 
 <p><a href="https://t.me/dvblatter" target="_blank">Связаться можно через Telegram</a> <a href="https://t.me/dvblatter"><img src="images/icons/TG.png" alt="Telegram Icon" width="25" height="25"/></a>
 

@@ -4,7 +4,7 @@
 
 ><br/>Коммерческий опыт. Проекты для которых я разрабатывал автоматизацию тестирования:
 ><br/>
-<br/>- **MVideo** <a href="https://www.mvideo.ru"><img height="25" src="images/icons/mvideo.png" width="25"/></a>
+<br/>- **WVideo** <a href="https://www.wvideo.ru"><img height="25" src="images/icons/wvideo.png" width="25"/></a>
 <br/>- **A-Trust** <a href="https://a-trast.ru/"><img height="25" src="images/icons/a-trast.png" width="25"/></a>
 <br/>- **Планета Авто** <a href="https://planetavto.ru/"><img height="25" src="images/icons/p-avto.jpg" width="25"/></a>
 
@@ -44,8 +44,8 @@
 
 * <a href="https://github.com/itblatter/MVideo" target="_blank">Проект в котором я использую весь стек технологий</a>
 
-* [Пример сборки в Jenkins](https://github.com/itblatter/MVideo?tab=readme-ov-file#%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D0%B2-jenkins) 
+* [Пример сборки в Jenkins](https://github.com/itblatter/WVideo?tab=readme-ov-file#%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-%D0%B2-jenkins) 
 
-* [Пример Allure отчетов](https://github.com/itblatter/MVideo?tab=readme-ov-file#-allure-%D0%BE%D1%82%D1%87%D0%B5%D1%82)
+* [Пример Allure отчетов](https://github.com/itblatter/WVideo?tab=readme-ov-file#-allure-%D0%BE%D1%82%D1%87%D0%B5%D1%82)
 
-* [Пример уведомлений ботом в Telegram о сборке](https://github.com/itblatter/MVideo?tab=readme-ov-file#-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%81-telegram-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%83%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B5)
+* [Пример уведомлений ботом в Telegram о сборке](https://github.com/itblatter/WVideo?tab=readme-ov-file#-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%81-telegram-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%83%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B5)
